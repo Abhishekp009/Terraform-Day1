@@ -18,5 +18,5 @@ This project provisions a simple EC2 instance in the default VPC with a security
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourname/terraform-ec2-instance.git
+   git clone [https://github.com/Abhishekp009/Terraform-Day1.git]
    cd terraform-ec2-instance
